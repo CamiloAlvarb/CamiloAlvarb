@@ -20,3 +20,11 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,docker,git,github,vscode" />
 </p>
+
+### AI & Automation
+
+`LLMs` · `RAG` · `AI Agents` · `LangFlow` · `Vector Databases` · `Prompt Engineering`
+
+### Engineering
+
+`Industrial Automation` · `Robotics` · `Motion Control` · `Mechanical Engineering`
