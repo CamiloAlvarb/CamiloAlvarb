@@ -7,3 +7,9 @@
 <p align="center">
   I test AI Agents, automation workflows, and engineering tools.
 </p>
+## 🧠 About Me
+
+- 🤖 Building AI agents, RAG systems, and automation workflows
+- ⚙️ Mechanical Engineer turned Forward Deployed Engineer
+- 🏭 Interested in industrial automation and robotics
+- 🧪 Usually experimenting with new AI tools
