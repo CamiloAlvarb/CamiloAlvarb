@@ -42,3 +42,23 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamiloAlvarb&layout=compact&hide_border=true&theme=transparent"
   />
 </p>
+
+## 🚀 Featured Projects
+
+### 🤖 Industrial AI Agents
+
+AI agents for technical product selection, configuration, cross-referencing, and industrial workflows.
+
+`Python` `LLMs` `RAG` `Agents`
+
+### 🔍 Intelligent Product Search
+
+Semantic search and RAG pipelines for navigating large industrial product catalogs.
+
+`Vector Search` `RAG` `Python`
+
+### ⚙️ Engineering Automation
+
+Tools combining engineering logic with AI-driven interfaces.
+
+`Automation` `AI` `Engineering`
