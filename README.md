@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Camilo</h1>
+<h1 align="center">Camilo Alvarez</h1>
 
 <p align="center">
   <b>Forward Deployed Engineer • Mechanical Engineer • Tester</b>
